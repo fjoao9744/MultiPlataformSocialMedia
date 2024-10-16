@@ -1,0 +1,26 @@
+body {
+   position: relative;
+    height: 98vh;
+    background-size: 100% 100%;
+    background-color: rgba(0, 0, 0, 0.733);
+}
+
+#imagemzinha {
+    display: absolute;
+}
+
+input {
+    display: block;
+    position: absolute;
+
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -1%);
+    width: 60vw;
+    padding: 17px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    color: black;
+}
+
